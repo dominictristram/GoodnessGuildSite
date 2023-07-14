@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://goodnessguild.pages.dev'
+url: 'https://goodnessguild.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
@@ -18,7 +18,8 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: ./assets/images/cover.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+#heroimage: ./assets/images/cover.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: ./assets/images/cover.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.

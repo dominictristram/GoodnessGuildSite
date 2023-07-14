@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: The Goodness Guild
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description:
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,13 +22,13 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: hello@goodnessguild.com
+facebook_username: goodnessguild
+twitter_username: goodnessguild
+instagram_username: goodnessguild
+linkedin_username:
+github_username:
+youtube_channel_id: UCsMqfdfOjOsr3n-YAEO5_1g
 reddit_username: /
 behance_username: /
 dribbble_username: /
@@ -41,11 +41,18 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Dom
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: The Goodness Guild is a musical project helmed by UK-based singer-songwriter Dom Tristram. With a blend of folk, rock, and electronica, Dom weaves enchanting melodies and thought-provoking lyrics that resonate deeply.
+
+    At the heart of The Goodness Guild's sound lies an emphasis on the power of words. Heart-felt lyrics shine through each composition, painting vivid landscapes of emotion, introspection, and social commentary.
+    
+    Drawing inspiration from legendary artists like , , and , The Goodness Guild creates an atmospheric soundscape that envelops listeners in a world of introspection and exploration. Deeply personal vocals, accompanied by evocative instrumentation, take the listener on a journey through the depths of the human experience. Merging the raw honesty of folk, the captivating energy of rock, and the ethereal allure of electronica results in a sonic tapestry that defies genre boundaries.
+
+    The Goodness Guild's discography will resonate with those seeking lyrical narratives and evocative melodies. Each song is a testament to a singer-songwriter who is unconstrained by genre, capturing the essence of human emotions and experiences with unflinching honesty.
+    
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 

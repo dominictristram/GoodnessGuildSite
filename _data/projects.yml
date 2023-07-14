@@ -10,7 +10,7 @@
   description: The first album
   release-date: 2023-02-14
   format: album
-- name: Meant To Be
+- name:          Meant To Be
   link: https://open.spotify.com/album/4cHFyE929Bwo3TlCyNUvlE?si=HP8puc8DS9CkMomhBIsfwQ
   image: ./assets/images/meant_to_be_cover.png
   description: The second single

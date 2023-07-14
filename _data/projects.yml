@@ -1,12 +1,12 @@
 - name: Another Christmas Song
   image: ./assets/images/christmas_square_3k_300dpi_affinity.png
-  link:
+  link: https://open.spotify.com/album/0ouM5Wbnzd6vdWDvSyyWit?si=cwxHhgLaSG6p7K9Z4EAJKg
   description: Christmas sing
 - name: Love Is What You Want
-  link:
+  link: https://open.spotify.com/album/2hKLLWvX1ijQHvJf7reGwD?si=Y2QUKNVvR-eKXrX_IeggNw
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: The first album
 - name: Meant To Be
-  link:
+  link: https://open.spotify.com/album/4cHFyE929Bwo3TlCyNUvlE?si=HP8puc8DS9CkMomhBIsfwQ
   image: ./assets/images/meant_to_be_cover.png
   description: The second single
